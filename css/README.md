@@ -16,3 +16,5 @@ I recomend these sites for learning CSS.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - [Layout with flexbox](https://internetingishard.com/html-and-css/flexbox/) A
     way to form your websites layout.
+
+CSS and HTML: [Shay Howe](https://learn.shayhowe.com/html-css/)

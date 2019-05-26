@@ -14,5 +14,5 @@ You dont need to know any of those languages FYI.
 I recomend these sites for learning HTML.
 - [CodeCademy](https://www.codecademy.com/learn/learn-html)
 - [Learn Enough](https://www.learnenough.com/html-tutorial/html_intro)
-- [W3 Schools](https://www.w3schools.com/html/) (might be a little outdated not
-sure)
+- [W3 Schools](https://www.w3schools.com/html/) (might be a little outdated not sure)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)
