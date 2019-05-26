@@ -20,3 +20,4 @@ I recomend these sites for learning JavaScript.
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Dr Boolean](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/) (functional programing in JS)
 
+
