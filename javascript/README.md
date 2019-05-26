@@ -19,3 +19,4 @@ I recomend these sites for learning JavaScript.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript#Tutorials)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Dr Boolean](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/) (functional programing in JS)
+
