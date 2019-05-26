@@ -16,6 +16,7 @@ to get the hang of but once you understand the basics you will love working in
 this black and white screen.
 
 I recomend these sites for learning the command line.
-[CodeCademy](https://www.codecademy.com/learn/learn-the-command-line)
-[Launch School](https://launchschool.com/books/command_line)
-[Learn Enough](https://www.learnenough.com/command-line-tutorial/basics)
+- [CodeCademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [Launch School](https://launchschool.com/books/command_line)
+- [Learn Enough](https://www.learnenough.com/command-line-tutorial/basics)
+
