@@ -21,4 +21,5 @@ My recomended order:
 1. JavaScript
 1. Shell
 1. git
+
 After that feel free to explore any of the directories.
