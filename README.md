@@ -14,3 +14,11 @@ that will contain links, and maybe some exercises or walk throughs.
 Each of these topics is just as important as the other, they all build
 _with_ each other (they are tools to get your job done). So I wouldn't skip
 (too much) unless you feel like you really have the topic down.
+
+My recomended order:
+1. HTML
+1. CSS
+1. JavaScript
+1. Shell
+1. git
+After that feel free to explore any of the directories.
