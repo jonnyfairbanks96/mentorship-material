@@ -1,5 +1,5 @@
 ## Shell
-From (Wikipedia)[https://en.wikipedia.org/wiki/Bash_(Unix_shell)]
+From [Wikipedia](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 Bash is a Unix shell and command language written by Brian Fox for the GNU
 Project as a free software replacement for the Bourne shell. First released in
 1989, it has been distributed widely as the default login shell for most Linux
