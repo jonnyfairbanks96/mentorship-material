@@ -27,4 +27,3 @@ Launch School Ruby books:
   - [Intro](https://launchschool.com/books/ruby)
   - [Object Oriented programing with Ruby](https://launchschool.com/books/oo_ruby)
   - [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
-
