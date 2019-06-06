@@ -42,6 +42,10 @@ Make sure you have a clear understanding of JS, HTML, and CSS.
    besides the enter button `=`
 1. Once you are to the enter button use `eval()` to
    add/subtract/divide/multiply what ever is in the calculator screen.
+1. Check the functionality against mine at: https://jonnyfairbanks96.github.io/mentorship/my_tutorials/ugly_calculator/
+    - If you suceeded with the same behavior continue to the next step
+    - If you did not suceed look at my code located in this same directory and see where you went wrong, find out why you went wrong and fix your mistakes
+    
 1. Once all this is finished Add this to github
 1. Push the code up to a branch name gh-pages
 1. Now you site is live on github pages!
