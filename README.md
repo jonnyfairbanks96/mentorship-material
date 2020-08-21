@@ -1,5 +1,5 @@
 # Mentorship
-My personlly made content for a self-taught programmer, coder, or computer science
+My personal content gathered for a self-taught programmer, coder, or computer science
 
 This is just some content that will help bootstrap your overall
 developing career. All the items in here are just links and websites that will
